@@ -24,7 +24,8 @@ pip install -r requirements.txt
 
 ## 3. Run
 ```
-python3 chaialime.py
+cd crawler
+python3 top_anime.py
 ```
 
 > NOTE: I just wonder why Boku no Pico has such bad scores ?
