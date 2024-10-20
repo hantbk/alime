@@ -99,8 +99,6 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-alime/
-alime.bak/
 
 # Spyder project settings
 .spyderproject
