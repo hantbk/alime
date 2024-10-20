@@ -1,5 +1,7 @@
-# Alime
-Anime Big Data Analysis kuru kuru~
+# Anime Big Data Analysis kuru kuru~
+![](./docs/wall.jpg)
+## 0. Introduction
+This is a project to analyze anime data from MyAnimeList. The data is crawl from MyAnimeList using BeautifulSoup. The data is stored in csv file. 
 
 ## 1. Setup Environment
 ```
