@@ -26,3 +26,9 @@ pip install -r requirements.txt
 ```
 python3 chaialime.py
 ```
+
+> NOTE: I just wonder why Boku no Pico has such bad scores ?
+> ``` csv
+> 1639,Boku no Pico,OVA,1,Sep 2006,Sep 2006,182442,4.22
+> ```
+> Hmm 🤔
